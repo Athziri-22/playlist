@@ -1,0 +1,17 @@
+
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+}
+img {
+  height: 50%;
+}
+.column {
+  padding: 40px;
+}
+
+
+
+
+
